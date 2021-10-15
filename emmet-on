@@ -1,0 +1,11 @@
+{ 
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 2,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {"javascript":"javascriptreact"}, /* Added to switch on Emmet prompts*/
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ]
+}
